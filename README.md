@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ErsinTuysuz
+- 👋 Hi, I’m Ersin Tüysüz
 - 👀 I’m interested in Web Design and Game Developing
 - 🌱 I’m currently learning C#
 - 📫 Contact: ersintysuz@gmail.com
