@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ersin Tüysüz
-- 👀 I’m interested in Web Design and Game Developing
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Control Systems, Web Design and Game Developing
+- 🌱 I’m currently learning Python
 - 📫 Contact: ersintysuz@gmail.com
 
 <!---
