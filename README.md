@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ersin Tüysüz
-- 👀 I’m interested in Control Systems, Web Design and Game Developing
+- 👀 I’m interested in Control Systems, Web Design and Game Development
 - 🌱 I’m currently learning Python
 - 📫 Contact: ersintysuz@gmail.com
 
